@@ -1,6 +1,6 @@
 # SharpCoders
 
-Bootcamp FullStack na Ímã learning place
+Bootcamp FullStack na Ímã learning place \n
 Objetivo: C# focado em Lógica de Programação e Algoritmos
 Professor e Orientador: Hugo Rafael
 
