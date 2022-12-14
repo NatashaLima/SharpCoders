@@ -8,4 +8,4 @@ Professor e Orientador: Hugo Rafael
 
 # 📚 Beecrowd
 
-Os exercícios deste bootcamp foram praticados na plataforma do Beecrawd com supervisão da Ímã Learning Place.
+Os exercícios deste bootcamp foram praticados na plataforma do Beecrowd com supervisão da Ímã Learning Place.
